@@ -4,7 +4,7 @@ To receive credit for this lab, show your work to the TA during recitation.
 
 ## Deliverables
 - [x] Create an account and connect to the Azure Vision API
-- [x] Explain to the TA why hard-coding credentials is a bad idea. Commit your code to GitHub without committing your credentials.
+- [x] Commit your code to GitHub without committing your credentials.
 - [x] Run the API endpoint with the starter code and demonstrate that it works with an example invocation (e.g., using curl).
 
 ## Getting started
